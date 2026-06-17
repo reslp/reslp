@@ -11,16 +11,7 @@ I am particularly interested in lichen symbioses, fungal adaptation, phylogenomi
 
 ---
 
-## Research interests
-
-- Lichen-forming fungi and fungal symbioses
-- Phylogenetics, phylogenomics and taxonomy
-- Comparative genomics and transcriptomics
-- Species distribution modelling and biodiversity data
-- Reproducible bioinformatics workflows
-- Containers, HPC workflows and teaching infrastructure
-
----
+## My work includes:
 
 ### Phylogenetics, genomics and bioinformatics pipelines
 
@@ -75,36 +66,3 @@ I am particularly interested in lichen symbioses, fungal adaptation, phylogenomi
 - [**blog**](https://github.com/reslp/blog) — blog source/material.
 - [**homestack**](https://github.com/reslp/homestack) — Raspberry Pi/home infrastructure notes and setup.
 
----
-
-## GitHub activity
-
-![Philipp's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reslp&theme=github-compact&hide_border=true)
-
-![Philipp's GitHub stats](https://github-readme-stats.vercel.app/api?username=reslp&show_icons=true&hide_border=true&theme=default)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reslp&layout=compact&hide_border=true)
-
----
-
-## Selected links
-
-- Website: [reslp.github.io](https://reslp.github.io/)
-- GitHub: [github.com/reslp](https://github.com/reslp)
-- TLCid: [reslp.github.io/tlcid](https://reslp.github.io/tlcid/)
-- phylociraptor documentation: [phylociraptor.readthedocs.io](https://phylociraptor.readthedocs.io)
-- Reproducibility workshop: [reproducibility-workshop.readthedocs.io](https://reproducibility-workshop.readthedocs.io)
-<!--
-**reslp/reslp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
