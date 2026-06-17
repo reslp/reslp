@@ -15,19 +15,19 @@ I am particularly interested in lichen symbioses, fungal adaptation, phylogenomi
 
 ### Phylogenetics, genomics and bioinformatics pipelines
 
-- [**phylociraptor**](https://github.com/reslp/phylociraptor) - rapid phylogenomic tree calculator. a reproducible framework for phylogenomic inference.
+- <img src="phylociraptor.png" alt="phylociraptor logo" width="32" height="32" align="center"> [**phylociraptor**](https://github.com/reslp/phylociraptor) - rapid phylogenomic tree calculator. a reproducible framework for phylogenomic inference.
 - [**annocomba**](https://github.com/reslp/annocomba) - automated genome annotation pipeline combining MAKER and funannotate with Singularity and Snakemake.
 - [**binner**](https://github.com/reslp/binner) - combine multiple metagenome filtering/binning programs using Docker containers.
 - [**concat**](https://github.com/reslp/concat) - Python script for building concatenated FASTA matrices from single-locus alignments.
 - [**correlate**](https://github.com/reslp/correlate) - R package for character correlation analyses with phylogenetic trees.
-- [**iqtreeGUI**](https://github.com/reslp/iqtreeGUI) - graphical user interface for IQ-TREE.
+- <img src="iqtreegui.png" alt="iqtreeGUI logo" width="32" height="32" align="center"> [**iqtreeGUI**](https://github.com/reslp/iqtreeGUI) - graphical user interface for IQ-TREE.
 - [**quickblast**](https://github.com/reslp/quickblast) - small shell utility for quickly creating BLAST databases and querying sequences.
 - [**alignment-viz**](https://github.com/reslp/alignment-viz) - scripts for processing and visualizing sequence alignments.
 - [**TEid**](https://github.com/reslp/TEid) - Python project related to the identification of Transposable Elements.
 
 ### Lichen tools, taxonomy and data resources
 
-- [**tlcid**](https://github.com/reslp/tlcid) - visual thin layer chromatography substance identification for lichens.
+- <img src="tlcid.png" alt="tlcid logo" width="32" height="32" align="center"> [**tlcid**](https://github.com/reslp/tlcid) - visual thin layer chromatography substance identification for lichens.
 - [**tlcid-database**](https://github.com/reslp/tlcid-database) - companion database/resources for TLCid.
 
 ### Teaching, workshops and course material
