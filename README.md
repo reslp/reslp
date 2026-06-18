@@ -36,10 +36,9 @@ I am particularly interested in lichen symbioses, fungal adaptation, phylogenomi
 - [**bioinformatics-and-genomics**](https://github.com/reslp/bioinformatics-and-genomics) - course material and syllabus for the Bioinformatics and Genomics module at the University of Graz.
 - [**reproducibility-workshop**](https://github.com/reslp/reproducibility-workshop) - course material for reproducibility in bioinformatics.
 - [**phylociraptor-workshop**](https://github.com/reslp/phylociraptor-workshop) - introduction to working with phylociraptor.
-- [**lichen_genomics**](https://github.com/reslp/lichen_genomics) - course material for a workshop on lichen genomics in Graz.
+- [**lichen_genomics**](https://github.com/reslp/lichen_genomics) - course material for the workshop on lichen genomics in Graz in 2017.
 - [**transcriptomics-intro**](https://github.com/reslp/transcriptomics-intro) - introductory transcriptomics teaching material.
 - [**linux-intro**](https://github.com/reslp/linux-intro) - introductory Linux teaching material.
-- [**2020-03-17-unigraz**](https://github.com/reslp/2020-03-17-unigraz) - University of Graz teaching/presentation material.
 
 ### Containers, HPC and reproducible computing
 
