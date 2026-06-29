@@ -4,7 +4,7 @@
 
 I study the evolution, ecology and genomics of lichen-forming fungi. My work combines classical lichenology - fieldwork, taxonomy, microscopy and ecology - with phylogenetics, comparative genomics, transcriptomics, reproducible workflows and open-source teaching material.
 
-I am particularly interested in lichen symbioses, fungal adaptation, phylogenomic inference, comparative methods and practical tools that make biodiversity and genomics workflows easier to run, teach and reproduce.
+I am particularly interested in lichen symbioses, fungal adaptation, phylogenomic inference, phylogenetic comparative methods and the development of practical tools that make biodiversity and genomics workflows easier to implement, teach and reproduce.
 
 [![Website](https://img.shields.io/badge/Website-reslp.github.io-blue?style=flat-square)](https://reslp.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-reslp-black?style=flat-square&logo=github)](https://github.com/reslp)
@@ -47,7 +47,7 @@ I am particularly interested in lichen symbioses, fungal adaptation, phylogenomi
 - [**rstudio-docker**](https://github.com/reslp/rstudio-docker) - RStudio Docker setup.
 - [**funannotate-docker**](https://github.com/reslp/funannotate-docker) - Docker container for the funannotate genome annotation pipeline.
 - [**jupyterhub-singularity**](https://github.com/reslp/jupyterhub-singularity) - JupyterHub/Singularity infrastructure work.
-- [**immediate-submit**](https://github.com/reslp/immediate-submit) - immediate-submit helper script used in Snakemake HPC pipelines.
+- [**immediate-submit**](https://github.com/reslp/immediate-submit) - immediate-submit helper script used in various Snakemake HPC pipelines.
 - [**LFS-cazy-comparative**](https://github.com/reslp/LFS-cazy-comparative) - code for comparative genome analyses from Resl et al. 2022, *Nature Communications*.
 - [**smsi-funannotate**](https://github.com/reslp/smsi-funannotate) - Snakemake/Singularity pipeline for funannotate workflows.
 - [**saccharis-docker**](https://github.com/reslp/saccharis-docker) - Docker setup for SACCHARIS/CAZyme-oriented annotation workflows.
@@ -61,7 +61,7 @@ I am particularly interested in lichen symbioses, fungal adaptation, phylogenomi
 
 ### Websites, personal infrastructure and miscellaneous projects
 
-- [**reslp.github.io**](https://github.com/reslp/reslp.github.io) - personal academic homepage.
+- [**reslp.github.io**](https://github.com/reslp/reslp.github.io) - personal academic website.
 - [**blog**](https://github.com/reslp/blog) - blog source/material.
 - [**homestack**](https://github.com/reslp/homestack) - Raspberry Pi/home infrastructure notes and setup.
 
